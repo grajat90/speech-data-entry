@@ -1,6 +1,6 @@
 # VOICE RECOGNITION BASED DATA ENTRY SCRIPT
 
-### I debeloped this script as a project for a local business that required large amounts of data entry and would hire special people for it. This script solved their problems and reduced the cost of labour.
+### I developed this script as a project for a local business that required large amounts of data entry and would hire special people for it. This script solved their problems and reduced the cost of labour.
 
 ### This project aims to solve the following problems:
 - Fatigue of long hours of data entry
